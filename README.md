@@ -1,8 +1,7 @@
 # firebase_todolist
 
-A new Flutter project.
+### Please add your own google-services.json file from firebase. I will upload a guided tutorial word doc of same in Branch labelled as Guide.
 
-Please add your own google-services.json file from firebase. I will upload a guided tutorial word doc of same. 
 
 ## Getting Started
 
