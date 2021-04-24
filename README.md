@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Please add your own google-services.json file from firebase. I will upload a guided tutorial word doc of same. 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
